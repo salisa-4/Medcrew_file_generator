@@ -1,0 +1,5 @@
+python-telegram-bot
+pandas
+reportlab
+openpyxl
+nest_asyncio
