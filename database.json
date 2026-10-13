@@ -1,0 +1,37 @@
+{
+    "subjects": {
+        "anatomy": {
+            "name": "Anatomy 🫀",
+            "prefix": "ANATOMY",
+            "bg_image": "anatomy_bg.png",
+            "colors": {
+                "card_border": "#f6e198",
+                "card_accent": "#f6e198",
+                "exp_bg": "#efc843",
+                "exp_text": "#FFFFFF"
+            }
+        },
+        "histology": {
+            "name": "Histology 🔬",
+            "prefix": "HISTOLOGY",
+            "bg_image": "histology_bg.png",
+            "colors": {
+                "card_border": "#a572d7",
+                "card_accent": "#a572d7",
+                "exp_bg": "#5c00b8",
+                "exp_text": "#FFFFFF"
+            }
+        },
+        "physiology": {
+            "name": "Physiology ⚡",
+            "prefix": "PHYSIOLOGY",
+            "bg_image": "physiology_bg.png",
+            "colors": {
+                "card_border": "#6fb76f",
+                "card_accent": "#6fb76f",
+                "exp_bg": "#008000",
+                "exp_text": "#FFFFFF"
+            }
+        }
+    }
+}
