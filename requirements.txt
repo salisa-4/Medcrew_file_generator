@@ -3,3 +3,4 @@ pandas
 reportlab
 openpyxl
 nest_asyncio
+Flask
